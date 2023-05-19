@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{FB6C7306-E3FD-497F-8E02-BA312F7B856E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SpaceAndroidd PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mihakristofelc/Projects/SpaceAndroid/SpaceAndroid/Game1.cs" relfile="SpaceAndroid/Game1.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="SpaceAndroid/scenes/LeaderboardEntry.cs" Line="19" Column="1" IsPinned="True" />
+      <File FileName="SpaceAndroid/Game1.cs" Line="86" Column="41" IsPinned="True" />
+      <File FileName="SpaceAndroid/classes/LoadContent.cs" />
+      <File FileName="SpaceAndroid/scenes/SettingsMenu.cs" />
+      <File FileName="SpaceAndroid/scenes/menu.cs" />
+      <File FileName="SpaceAndroid/classes/scene.cs" />
+      <File FileName="SpaceAndroid/classes/BossEnemy.cs" />
+      <File FileName="SpaceAndroid/controller/Gameplay.cs" />
+      <File FileName="SpaceAndroid/controller/PowerUpController.cs" />
+      <File FileName="SpaceAndroid/scenes/Boss1.cs" />
+      <File FileName="SpaceAndroid/classes/ReadAsset.cs" />
+      <File FileName="SpaceAndroid/classes/Renderer.cs" />
+      <File FileName="SpaceAndroid/scenes/DemoLevel.cs" />
+      <File FileName="SpaceAndroid/controller/LeaderBoardManager.cs" />
+      <File FileName="SpaceAndroid/AndroidManifest.xml" />
+      <File FileName="SpaceAndroid/Activity1.cs" />
+      <File FileName="../../../../usr/local/share/dotnet/sdk/7.0.100/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.ImportWorkloads.targets" />
+      <File FileName="SpaceAndroid/buttons/LeaderBoardButton.cs" />
+      <File FileName="SpaceAndroid/scenes/LeaderBoard.cs" />
+      <File FileName="SpaceAndroid/controller/ButtonController.cs" />
+      <File FileName="SpaceAndroid/classes/bullet.cs" />
+      <File FileName="SpaceAndroid/classes/player.cs" />
+      <File FileName="SpaceAndroid/scenes/DemoLevel2.cs" />
+      <File FileName="SpaceAndroid/scenes/Endless.cs" />
+      <File FileName="SpaceAndroid/scenes/Boss2.cs" />
+      <File FileName="SpaceAndroid/scenes/Boss3.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpaceAndroid" expanded="True">
+            <Node name="SpaceAndroidd" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="classes" expanded="True" />
+              <Node name="controller" expanded="True" />
+              <Node name="models" expanded="True" />
+              <Node name="scenes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

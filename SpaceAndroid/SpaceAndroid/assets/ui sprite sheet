@@ -1,0 +1,30 @@
+ui sprite sheet
+
+interface: 0, 0, 400, 126 
+pause/menu: 413, 0, 124, 126 
+achievements: 0, 552, 124, 126
+restart: 0, 690, 125, 125
+exit: 820,0,125,125
+play: 1120, 0, 122, 124
+settings: 1270, 0, 124, 124
+EmptyButton: 1420, 0, 125, 125
+
+level_not_done: 824, 175, 145, 145
+level_done: 1016, 174, 145, 145
+
+off: 0,145,400,207
+on: 410, 145, 400, 207
+
+menu: 0, 380, 1024, 1462
+
+exit: 0,950, 145, 145
+
+line: 0, 1864, 760, 91
+line_two: 0, 2000, 1375, 336
+line_three: 0, 2363, 1375, 292
+
+enemy_health_25: 1040, 360, 375, 89
+enemy_health_50: 1040, 470, 559, 89
+enemy_health_75: 1040, 550, 742, 89
+enemy_health_100: 1040, 627, 928, 89
+
